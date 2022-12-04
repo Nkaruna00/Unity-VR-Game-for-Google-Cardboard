@@ -1,5 +1,5 @@
 # Unity-VR-Game-for-Google-Cardboard
-VR Game made with Unity for Google Cardboard(Android)
+VR Game made with Unity and C# for Google Cardboard (Android)
 
 
 ## Description
@@ -27,9 +27,8 @@ The code is Written in C#.
 
 
 
-## Authors
+## Author
 
-Contributors names and contact info
 
 KARUNAKARAN Nithushan
 
